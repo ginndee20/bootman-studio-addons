@@ -1,4 +1,4 @@
-# BotMan Studio Addons
+# BotMan Studio Addons Laravel 6 Compatible
 
 Addons used in combination with BotMan Studio.
 
